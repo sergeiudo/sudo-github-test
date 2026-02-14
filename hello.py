@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Hello World GUI Application."""
+"""Hello World GUI Application.
+
+Created by Sergei Udovenko
+"""
 
 import tkinter as tk
 
